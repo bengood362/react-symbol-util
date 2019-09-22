@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/plugin-transform-react-jsx": "^7.3.0",
+    "ramda": "^0.26.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-jsx": "^1.0.0",
