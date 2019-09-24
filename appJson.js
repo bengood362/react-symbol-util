@@ -1,4 +1,4 @@
-{
+module.exports = {
     "type": "File",
     "start": 0,
     "end": 1343,
